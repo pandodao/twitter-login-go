@@ -1,6 +1,6 @@
 # twitter-login-go
 
-A Simple Go package for [Login with Twitter](https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter)
+A simple Go package for [Login with Twitter](https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter)
 
 ## Installation
 
